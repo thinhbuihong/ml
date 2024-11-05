@@ -1,0 +1,3 @@
+- research svr va svr kernel
+- R^2 = 1 - (SS res / SS tot) : goodness of fit (greater or better) (>0.9 is good) (ordinary least squares)
+- adj R^2 = 1 - ( 1 - R^2 ) \* ( n - 1) / ( n - k - 1)
